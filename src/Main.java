@@ -61,7 +61,7 @@ public class Main {
             System.out.println("\nNyomd meg az enter-t a folytatáshoz!");
             scanner.nextLine();
             kor++;
+            System.out.println("A játéknak vége");
         }
-        System.out.println("A játéknak vége");
     }
 }
