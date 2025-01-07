@@ -32,4 +32,12 @@ public class Jatekos {
     public void setPont(int pont) {
         this.pont = pont;
     }
+
+    public void lep(int lepes) {
+        setHely(getHely()+lepes);
+    }
+
+    public void hozzaadPont(int pont) {
+        setPont(getPont()+pont);
+    }
 }
