@@ -62,5 +62,6 @@ public class Main {
             scanner.nextLine();
             kor++;
         }
+        System.out.println("A játéknak vége");
     }
 }
